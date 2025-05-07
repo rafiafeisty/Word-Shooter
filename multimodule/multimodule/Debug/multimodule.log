@@ -1,0 +1,5 @@
+﻿  Assembling main.asm...
+main.asm(4): warning A4011: multiple .MODEL directives found : .MODEL ignored
+main.asm(748): warning A4006: too many arguments in macro call
+main.asm(757): warning A4006: too many arguments in macro call
+  multimodule.vcxproj -> C:\Users\Dell\Documents\4semester\coal\multimodule\Debug\multimodule.exe
